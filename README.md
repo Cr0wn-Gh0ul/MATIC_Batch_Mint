@@ -20,9 +20,9 @@
 
 #### Deploy
 1. Edit scripts/deploy.js
-    2. Add metadata url to line 16
-    3. Add contract name/symbol to line 17
-    4. Add admin(minter) to line 18
+    1. Add metadata url to line 16
+    2. Add contract name/symbol to line 17
+    3. Add admin(minter) to line 18
 2. Run `npx hardhat run scripts/deploy.js --network matic`
 ##
 
